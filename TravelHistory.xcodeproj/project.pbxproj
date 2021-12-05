@@ -84,6 +84,7 @@
 		4006C9D1275C803E0012254D /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				408A6439275BC91D000DCE09 /* ViewController.swift */,
 				4006C9D2275C80B30012254D /* LocationMapViewController.swift */,
 			);
 			path = ViewController;
@@ -115,7 +116,6 @@
 				408A644D275BCDE4000DCE09 /* TravelHistory.entitlements */,
 				408A6435275BC91D000DCE09 /* AppDelegate.swift */,
 				408A6437275BC91D000DCE09 /* SceneDelegate.swift */,
-				408A6439275BC91D000DCE09 /* ViewController.swift */,
 				408A643B275BC91D000DCE09 /* Main.storyboard */,
 				408A6441275BC921000DCE09 /* Assets.xcassets */,
 				408A6443275BC921000DCE09 /* LaunchScreen.storyboard */,
